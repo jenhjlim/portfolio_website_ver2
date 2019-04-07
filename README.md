@@ -97,6 +97,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [The Modern JavaScript Tutorial](https://javascript.info/)
 * <b>Blog Posts</b>
     - [JavaScript ES2015 Classes and Prototype Inheritance](https://www.accelebrate.com/blog/javascript-es6-classes-and-prototype-inheritance-part-1-of-2/)
+* <b>Theories</b>
+    - [Details of the object model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model) : `Class`-based vs. `prototype`-based languages
 
 ### Vue
 * <b>Collections</b>
@@ -164,7 +166,17 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [MySQL](https://www.mysql.com/)
 - - -
 
-# 11. Coming Up
+# 12. Blog Posts
+1. <b>Portfolio Project Week</b>
+    - 1.1. [Plans to get a job as a front-end developer by the end of 2019](http://bit.ly/week_0_goals) on April 4, 2019.
+
+2. <b>Self-learning Story</b>
+    - 2.1. [JavaScript ES6 Tutorials](http://bit.ly/M_JS_ES6_NN) on April 4, 2019.
+    - 2.2. [Asynchronous JavaScript](http://bit.ly/M_JS_Async_NN) on April 5, 2019.
+    - 2.3. [Object Oriented JavaScript](http://bit.ly/M_JS_OO_NN) on April 7, 2019.
+- - -
+
+# 12. Coming Up
 I plan to learn the following:
         
 * <b>Front-end</b>
@@ -179,16 +191,6 @@ I plan to learn the following:
     - [PostgreSQL](https://www.postgresql.org/) :  a powerful, open source object-relational database system
 * <b>Etc</b>
     - [VIM](https://www.vim.org/) : a text editor (<i>Force you to use only the keyboard!</i>)
-- - -
-
-# 12. Blog Posts
-1. <b>Portfolio Project Week #0</b>
-    - 1.1. [Plans to get a job as a front-end developer by the end of 2019](http://bit.ly/week_0_goals) on April 4, 2019.
-
-2. <b>Self-learning Story</b>
-    - 2.1. [JavaScript ES6 Tutorials](http://bit.ly/M_JS_ES6_NN) on April 4, 2019.
-    - 2.2. [JavaScript ES6 Tutorials](http://bit.ly/M_JS_Async_NN) on April 5, 2019.
-    
 - - -
 
 # 13. Contributing
