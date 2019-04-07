@@ -166,7 +166,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [MySQL](https://www.mysql.com/)
 - - -
 
-# 12. Blog Posts
+# 11. Blog Posts
 1. <b>Portfolio Project Week</b>
     - 1.1. [Plans to get a job as a front-end developer by the end of 2019](http://bit.ly/week_0_goals) on April 4, 2019.
 
@@ -184,7 +184,7 @@ I plan to learn the following:
         + [Flexbox](https://flexbox.io/) by Wes Bos
         + [CSS Grid](https://cssgrid.io/) by Wes Bos
     - JavaScript
-        + [30 Day Vanilla Coding Challenge](https://javascript30.com/) - [GitHub](https://github.com/wesbos/JavaScript30) 
+        + [30 Day Vanilla Coding Challenge](https://javascript30.com/) by Wes Bos | [GitHub](https://github.com/wesbos/JavaScript30) 
     - [TypeScript](https://www.typescriptlang.org/) : a typed superset of JavaScript that compiles to plain JavaScriptii
 * <b>DB</b>
     - [MongoDB](https://www.mongodb.com/) : a cross-platform document-oriented database program (<i>No SQL!</i>)
