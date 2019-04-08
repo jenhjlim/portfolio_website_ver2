@@ -67,7 +67,6 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 # 9. References 
 ## 9.1. Front-end
 ### Overall
-* <b>[Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)</b>
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
     - GreenSock
@@ -178,14 +177,16 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 
 # 12. Coming Up
 I plan to learn the following:
-        
+* <b>Overall</b>
+    - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)       
 * <b>Front-end</b>
     - CSS
         + [Flexbox](https://flexbox.io/) by Wes Bos
         + [CSS Grid](https://cssgrid.io/) by Wes Bos
     - JavaScript
         + [30 Day Vanilla Coding Challenge](https://javascript30.com/) by Wes Bos | [GitHub](https://github.com/wesbos/JavaScript30) 
-    - [TypeScript](https://www.typescriptlang.org/) : a typed superset of JavaScript that compiles to plain JavaScriptii
+    - [TypeScript](https://www.typescriptlang.org/) : a typed superset of JavaScript that compiles to plain JavaScript
+    - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
 * <b>DB</b>
     - [MongoDB](https://www.mongodb.com/) : a cross-platform document-oriented database program (<i>No SQL!</i>)
     - [PostgreSQL](https://www.postgresql.org/) :  a powerful, open source object-relational database system
