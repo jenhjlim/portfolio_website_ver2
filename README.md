@@ -173,16 +173,6 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 - - -
 
 # 11. Blog Posts
-1. <b>Portfolio Project Week</b>
-    - 1.1. [Plans to get a job as a front-end developer by the end of 2019](http://bit.ly/week_0_goals) on April 4, 2019.
-
-2. <b>Self-learning Story</b>
-    - 2.1. [JavaScript ES6 Tutorials](http://bit.ly/M_JS_ES6_NN) on April 4, 2019.
-    - 2.2. [Asynchronous JavaScript](http://bit.ly/M_JS_Async_NN) on April 5, 2019.
-    - 2.3. [Object Oriented JavaScript](http://bit.ly/M_JS_OO_NN) on April 7, 2019.
-    - 2.4.1. [JavaScript ES6-ES8 [Part 1 of 2]](http://bit.ly/M_JS_ES6-8_1_CT) on April 9, 2019.
-    - 2.4.2. [JavaScript ES6-ES8 [Part 2 of 2]](http://bit.ly/M_JS_ES6-8_2_CT) on April 10, 2019.
-    - 2.5. [Regular Expressions — Programming with Text](http://bit.ly/M_JS_Regex_CT) on April 11, 2019.
 - - -
 
 # 12. Coming Up
