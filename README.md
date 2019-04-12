@@ -58,8 +58,8 @@ The second version of my portfolio website
 
 # 7. General 
 ## 7.1. Environment
-"The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as PHP V8Js or Oracle Nashorn." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
-- Because I'm using Python/Django in the backend, there is no need for me to use NuxtJS.
+"The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as [PHP V8Js](https://github.com/phpv8/v8js) or [Oracle Nashorn](https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
+- Because I'm using Python/Django in the backend, there is no need for me to use [NuxtJS](https://nuxtjs.org/).
 
 - - -
 
