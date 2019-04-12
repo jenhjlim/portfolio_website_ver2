@@ -57,6 +57,10 @@ The second version of my portfolio website
 - - -
 
 # 7. General 
+## 7.1. Environment
+"The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as PHP V8Js or Oracle Nashorn." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
+- Because I'm using Python/Django in the backend, there is no need for me to use NuxtJS.
+
 - - -
 
 # 8. Useful Info
@@ -116,6 +120,9 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [How I landed a full stack developer job without a tech degree or work experience](http://bit.ly/2D06sl5) by [Charlie Jeppsson](https://github.com/charliejeppsson)
 
 ## 9.2. Back-end
+* <b>NuxtJS</b>
+    - [Vue SSR Guide](https://ssr.vuejs.org) by [VueJS](https://vuejs.org)
+    - [The Complete Nuxt Guide](https://medium.com/@onlykiosk/the-complete-nuxt-guide-940751e1a6a5) by [OnlyKiosk Dev Tech](https://medium.com/@onlykiosk)
 
 ## 9.3. DB
 * <b>Visualization</b>
@@ -163,7 +170,6 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
         + [PrismJS](https://prismjs.com/) : a lightweight, extensible syntax highlighter
     - [Vue](https://vuejs.org/)
         + [Vuetify](https://vuetifyjs.com/en/) : a material component framework for Vue apps
-        + [NuxtJS](https://nuxtjs.org/) : a framework for creating a server-rendered Vue.js apps
         + [VeeValidate](https://baianat.github.io/vee-validate/) : Template Based Validation Framework for Vue.js
 * <b>Back End</b>
     - [Python](https://www.python.org/)
@@ -186,6 +192,8 @@ I plan to learn the following:
     - JavaScript
         + [30 Day Vanilla Coding Challenge](https://javascript30.com/) by Wes Bos | [GitHub](https://github.com/wesbos/JavaScript30) 
     - [TypeScript](https://www.typescriptlang.org/) : a typed superset of JavaScript that compiles to plain JavaScript
+        + [TypeScript Basics](http://bit.ly/2Uc9PLx) by Java Brains
+        + [Make a Blockchain by using TypeScript](https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript) by Nomad Coders
     - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
 * <b>DB</b>
     - [MongoDB](https://www.mongodb.com/) : a cross-platform document-oriented database program (<i>No SQL!</i>)
