@@ -118,6 +118,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Google Fonts : Korean](https://googlefonts.github.io/korean/)
 * <b>Blog Posts</b>
     - [How I landed a full stack developer job without a tech degree or work experience](http://bit.ly/2D06sl5) by [Charlie Jeppsson](https://github.com/charliejeppsson)
+* <b>Plugins</b>
+    - [New Moon](https://taniarascia.github.io/new-moon/) : the optimized dark theme including syntax highlighting for web development 
 
 ## 9.2. Back-end
 * <b>NuxtJS</b>
