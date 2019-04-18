@@ -12,12 +12,7 @@ The second version of my portfolio website
 8. <b>[Useful Info](https://github.com/cmdlhz/portfolio_website_ver2#8-useful-info)</b>
     - 8.1. [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/portfolio_website_ver2#81-github-markdown--useful-techniques)
 9. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#9-references)</b>
-    - 9.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#91-front-end)
-        + [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall)
-        + [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css)
-        + [JS](https://github.com/cmdlhz/portfolio_website_ver2#js)
-        + [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue)
-        + [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
+    - 9.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#91-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
     - 9.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#92-back-end)
     - 9.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#93-db)
     - 9.4. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#94-etc)
