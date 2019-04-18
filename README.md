@@ -13,11 +13,11 @@ The second version of my portfolio website
     - 8.1. [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/portfolio_website_ver2#81-github-markdown--useful-techniques)
 9. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#9-references)</b>
     - 9.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#91-front-end)
-        + Overall(https://github.com/cmdlhz/portfolio_website_ver2#911-overall)
-        + CSS(https://github.com/cmdlhz/portfolio_website_ver2#912-css)
-        + JS(https://github.com/cmdlhz/portfolio_website_ver2#913-js)
-        + Vue(https://github.com/cmdlhz/portfolio_website_ver2#914-vue)
-        + Etc..(https://github.com/cmdlhz/portfolio_website_ver2#915-etc..)
+        + [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall)
+        + [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css)
+        + [JS](https://github.com/cmdlhz/portfolio_website_ver2#js)
+        + [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue)
+        + [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
     - 9.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#92-back-end)
     - 9.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#93-db)
     - 9.4. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#94-etc)
@@ -103,20 +103,19 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 ### JS
 * <b>Tutorials</b>
     - [The Modern JavaScript Tutorial](https://javascript.info/)
-        + 1) An Introduction
-        + 2) JavaScript Fundamentals
-        + 3) Code Quality
-        + 4) Objects: The Basics
-        + 5) Data Types
-        + 6) Advanced Working with Functions
-        + 7) Object Properties Configuration
-        + 8) Prototypes, Inheritance
-        + 9) Classes
-        + 10) Error Handling
-        + 11) Promises, Async/Await
-        + 12) Generators, Advanced Iteration
-        + 13) Modules
-
+        + [An Introduction](https://javascript.info/getting-started)
+        + [JavaScript Fundamentals](https://javascript.info/first-steps)
+        + [Code Quality](https://javascript.info/code-quality)
+        + [Objects: The Basics](https://javascript.info/object-basics)
+        + [Data Types](https://javascript.info/data-types)
+        + [Advanced Working with Functions](https://javascript.info/advanced-functions)
+        + [Object Properties Configuration](https://javascript.info/object-properties)
+        + [Prototypes, Inheritance](https://javascript.info/prototypes)
+        + [Classes](https://javascript.info/classes)
+        + [Error Handling](https://javascript.info/error-handling)
+        + [Promises, Async/Await](https://javascript.info/async)
+        + [Generators, Advanced Iteration](https://javascript.info/generators-iterators)
+        + [Modules](https://javascript.info/modules)
 * <b>Collections</b>
     - [ES 6: New Features: Overview & Comparison](http://es6-features.org/#Constants)
 * <b>Blog Posts</b>
