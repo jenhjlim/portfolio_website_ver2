@@ -98,6 +98,20 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 ### JS
 * <b>Tutorials</b>
     - [The Modern JavaScript Tutorial](https://javascript.info/)
+        1) An Introduction
+        2) JavaScript Fundamentals
+        3) Code Quality
+        4) Objects: The Basics
+        5) Data Types
+        6) Advanced Working with Functions
+        7) Object Properties Configuration
+        8) Prototypes, Inheritance
+        9) Classes
+        10) Error Handling
+        11) Promises, Async/Await
+        12) Generators, Advanced Iteration
+        13) Modules
+
 * <b>Collections</b>
     - [ES 6: New Features: Overview & Comparison](http://es6-features.org/#Constants)
 * <b>Blog Posts</b>
@@ -110,6 +124,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Awesome Vue](https://github.com/vuejs/awesome-vue) 
 * <b>Blog Posts</b>
     - [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56) : Comparisons in "*Learning Curve*", "*Code Style*", "*Single File Components*", "*Performance*", "*Flexibility*", "*Tooling*", "*Mobile*", "*Community*", "*Maturity*", "*Support*", and "*Hiring Talent*"
+* <b>Tips</b>
+    - [How to use various themes of icons from Google's Material Design in Vuetify](https://github.com/vuetifyjs/vuetify/issues/4164)
 
 ### Etc..
 * <b>Collections</b>
