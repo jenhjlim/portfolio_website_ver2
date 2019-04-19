@@ -146,6 +146,11 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
 ## 9.4. Etc
+* <b>Testing</b>
+    - [Mocha](https://mochajs.org/), the core framework : It provides common testing functions including describe and it and the main function that runs tests.
+    - [Chai](https://www.chaijs.com/) : the library with many assertions. It allows to use a lot of different assertions
+* <b>Coding Challenges</b>
+    - [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 * <b>Online Code Editor</b>
     - [StackBlitz](https://stackblitz.com/)
     - [Code SandBox](https://codesandbox.io/)
