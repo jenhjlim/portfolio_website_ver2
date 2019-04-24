@@ -137,6 +137,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [New Moon](https://taniarascia.github.io/new-moon/) : the optimized dark theme including syntax highlighting for web development 
 
 ## 9.2. Back-end
+* <b>Python</b>
+    - [How to loop with indexes in Python](https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/) by Trey Hunner on Apr 25, 2016.
 * <b>NuxtJS</b>
     - [Vue SSR Guide](https://ssr.vuejs.org) by [VueJS](https://vuejs.org)
     - [The Complete Nuxt Guide](https://medium.com/@onlykiosk/the-complete-nuxt-guide-940751e1a6a5) by [OnlyKiosk Dev Tech](https://medium.com/@onlykiosk)
