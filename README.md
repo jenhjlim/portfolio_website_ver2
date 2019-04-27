@@ -57,15 +57,24 @@ The second version of my portfolio website
 - - -
 
 # 7. General 
-## 7.1. Environment
-"The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as [PHP V8Js](https://github.com/phpv8/v8js) or [Oracle Nashorn](https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
-- Because I'm using Python/Django in the backend, there is no need for me to use [NuxtJS](https://nuxtjs.org/).
+## 7.1. MVC Pattern in Django
+Django is using the MVC pattern. However, each component is called differently in Django.
+* Model 
+* View > Template (in Django)
+* Controller > View (in Django)
+
+## 7.2. Environment
+Because I'm using Python/Django in the backend, I decided not to use [NuxtJS](https://nuxtjs.org/).
+- "The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as [PHP V8Js](https://github.com/phpv8/v8js) or [Oracle Nashorn](https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
 
 - - -
 
 # 8. Useful Info
 ## 8.1. GitHub README Markdown : Useful Techniques 
 Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques).
+
+## 8.2. Computer Science Fundamentals
+- [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 - - -
 
 # 9. References 
