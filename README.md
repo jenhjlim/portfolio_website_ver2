@@ -156,7 +156,11 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Visualization</b>
     - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
-## 9.4. Etc
+## 9.4. design
+* <b>Figma</b>
+    - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
+
+## 9.5. Etc
 * <b>Testing</b>
     - [Mocha](https://mochajs.org/), the core framework : It provides common testing functions including describe and it and the main function that runs tests.
     - [Chai](https://www.chaijs.com/) : the library with many assertions. It allows to use a lot of different assertions
@@ -168,7 +172,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Etc</b>
     - [Post Image](https://postimages.org/) : Get permanent links for images
 
-## 9.5. Inspirations
+## 9.6. Inspirations
 * <b>Interactive Experience</b>
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
