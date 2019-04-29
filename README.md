@@ -15,8 +15,9 @@ The second version of my portfolio website
     - 9.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#91-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
     - 9.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#92-back-end)
     - 9.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#93-db)
-    - 9.4. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#94-etc)
-    - 9.5. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#95-inspirations)
+    - 9.4. [Design](https://github.com/cmdlhz/portfolio_website_ver2#94-design)
+    - 9.5. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#95-etc)
+    - 9.6. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#96-inspirations)
 10. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#10-built-with)</b>
 11. <b>[Blog Posts](https://github.com/cmdlhz/portfolio_website_ver2#11-blog-posts)</b>
 12. <b>[Coming Up](https://github.com/cmdlhz/portfolio_website_ver2#12-coming-up)</b>
@@ -156,7 +157,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Visualization</b>
     - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
-## 9.4. design
+## 9.4. Design
 * <b>Figma</b>
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
