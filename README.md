@@ -93,6 +93,9 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
         + [ScrollMagic for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
 
 ### CSS
+* <b>Style Guide</b>
+    - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript#airbnb-css-in-javascript-style-guide)
+    - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#airbnb-css--sass-styleguide)
 * <b>Testing</b>
     - [Cubic-bezier](http://cubic-bezier.com): A transition effect with variable speed from start to end
     - [Color Picker](https://www.w3schools.com/colors/colors_picker.asp): Comparing similar colors
@@ -106,6 +109,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Solved with CSS! Dropdown Menus](https://css-tricks.com/solved-with-css-dropdown-menus/)
 
 ### JS
+* <b>Style Guide</b>
+    - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#airbnb-javascript-style-guide-)
 * <b>Tutorials</b>
     - [The Modern JavaScript Tutorial](https://javascript.info/)
         + [An Introduction](https://javascript.info/getting-started)
