@@ -2,27 +2,29 @@
 The second version of my portfolio website
 
 ## Table of Contents
-1. <b>[Work](https://github.com/cmdlhz/portfolio_website_ver2#1-work)</b>
-2. <b>[Writings](https://github.com/cmdlhz/portfolio_website_ver2#2-writings)</b>
-3. <b>[About](https://github.com/cmdlhz/portfolio_website_ver2#3-about)</b>
-4. <b>[Account](https://github.com/cmdlhz/portfolio_website_ver2#4-account)</b>
-5. <b>[Main Page](https://github.com/cmdlhz/portfolio_website_ver2#5-account)</b>
-6. <b>[Navigation](https://github.com/cmdlhz/portfolio_website_ver2#6-navigation)</b>
-7. <b>[General](https://github.com/cmdlhz/portfolio_website_ver2#7-general)</b>
-8. <b>[Useful Info](https://github.com/cmdlhz/portfolio_website_ver2#8-useful-info)</b>
-    - 8.1. [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/portfolio_website_ver2#81-github-markdown--useful-techniques)
-9. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#9-references)</b>
-    - 9.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#91-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
-    - 9.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#92-back-end)
-    - 9.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#93-db)
-    - 9.4. [Design](https://github.com/cmdlhz/portfolio_website_ver2#94-design)
-    - 9.5. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#95-etc)
-    - 9.6. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#96-inspirations)
-10. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#10-built-with)</b>
-11. <b>[Blog Posts](https://github.com/cmdlhz/portfolio_website_ver2#11-blog-posts)</b>
-12. <b>[Coming Up](https://github.com/cmdlhz/portfolio_website_ver2#12-coming-up)</b>
-13. <b>[Contributing](https://github.com/cmdlhz/portfolio_website_ver2#13-contributing)</b>
-14. <b>[License](https://github.com/cmdlhz/portfolio_website_ver2#14-license)</b>
+1. <b>[Setup](https://github.com/cmdlhz/portfolio_website_ver2#1-setup)</b>
+2. <b>[Run the Server](https://github.com/cmdlhz/portfolio_website_ver2#2-run-the-server)</b>
+3. <b>[Work](https://github.com/cmdlhz/portfolio_website_ver2#3-work)</b>
+4. <b>[Writings](https://github.com/cmdlhz/portfolio_website_ver2#4-writings)</b>
+5. <b>[About](https://github.com/cmdlhz/portfolio_website_ver2#5-about)</b>
+6. <b>[Account](https://github.com/cmdlhz/portfolio_website_ver2#6-account)</b>
+7. <b>[Main Page](https://github.com/cmdlhz/portfolio_website_ver2#7-account)</b>
+8. <b>[Navigation](https://github.com/cmdlhz/portfolio_website_ver2#8-navigation)</b>
+9. <b>[General](https://github.com/cmdlhz/portfolio_website_ver2#9-general)</b>
+10. <b>[Useful Info](https://github.com/cmdlhz/portfolio_website_ver2#10-useful-info)</b>
+    - 10.1. [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/portfolio_website_ver2#10-github-markdown--useful-techniques)
+11. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#11-references)</b>
+    - 11.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#111-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
+    - 11.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#112-back-end)
+    - 11.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#113-db)
+    - 11.4. [Design](https://github.com/cmdlhz/portfolio_website_ver2#114-design)
+    - 11.5. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#115-etc)
+    - 11.6. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#116-inspirations)
+12. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#12-built-with)</b>
+13. <b>[Blog Posts](https://github.com/cmdlhz/portfolio_website_ver2#13-blog-posts)</b>
+14. <b>[Coming Up](https://github.com/cmdlhz/portfolio_website_ver2#14-coming-up)</b>
+15. <b>[Contributing](https://github.com/cmdlhz/portfolio_website_ver2#15-contributing)</b>
+16. <b>[License](https://github.com/cmdlhz/portfolio_website_ver2#16-license)</b>
 - - -
 
 # 1. Setup 
@@ -61,61 +63,61 @@ The second version of my portfolio website
 * <b>Frontend</b> : `cd client` - `npm run serve`
 - - - 
 
-# 1. Work 
+# 3. Work 
 - - -
 
-# 2. Writings 
+# 4. Writings 
 - - -
 
-# 3. About 
+# 5. About 
 - - -
 
-# 4. Account 
-## 4.1. Sign Up Page
+# 6. Account 
+## 6.1. Sign Up Page
 
-## 4.2. Log In Page
+## 6.2. Log In Page
 
-## 4.3. Account Page
+## 6.3. Account Page
 - - -
 
-# 5. Main Page
+# 7. Main Page
 - - -
 
-# 6. Navigation 
-## 6.1. Header
-### 6.1.1. ARIA 
+# 8. Navigation 
+## 8.1. Header
+### 8.1.1. ARIA 
 [Accessible Rich Internet Applications (ARIA)](https://www.w3.org/TR/wai-aria-1.1/) is a set of attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities.
 - Adding `aria-haspopup="true"` to the parent of the dropdown menu to indicates an alternative state.
 - `aria-expanded="false"` & `aria-expanded="true"` shows that whether the alternative state is expanded or not.
 - Including `aria-label="submenu"` on the actual dropdown menu itself shows that it's a submenu.
 
 
-## 6.2. Footer
+## 8.2. Footer
 - - -
 
-# 7. General 
-## 7.1. MVC Pattern in Django
+# 9. General 
+## 9.1. MVC Pattern in Django
 Django is using the MVC pattern. However, each component is called differently in Django.
 * Model 
 * View > Template (in Django)
 * Controller > View (in Django)
 
-## 7.2. Environment
+## 9.2. Environment
 Because I'm using Python/Django in the backend, I decided not to use [NuxtJS](https://nuxtjs.org/).
 - "The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as [PHP V8Js](https://github.com/phpv8/v8js) or [Oracle Nashorn](https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
 
 - - -
 
-# 8. Useful Info
-## 8.1. GitHub README Markdown : Useful Techniques 
+# 10. Useful Info
+## 10.1. GitHub README Markdown : Useful Techniques 
 Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques).
 
-## 8.2. Computer Science Fundamentals
+## 10.2. Computer Science Fundamentals
 - [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 - - -
 
-# 9. References 
-## 9.1. Front-end
+# 11. References 
+## 11.1. Front-end
 ### Overall
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
@@ -187,22 +189,22 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Plugins</b>
     - [New Moon](https://taniarascia.github.io/new-moon/) : the optimized dark theme including syntax highlighting for web development 
 
-## 9.2. Back-end
+## 11.2. Back-end
 * <b>Python</b>
     - [How to loop with indexes in Python](https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/) by Trey Hunner on Apr 25, 2016.
 * <b>NuxtJS</b>
     - [Vue SSR Guide](https://ssr.vuejs.org) by [VueJS](https://vuejs.org)
     - [The Complete Nuxt Guide](https://medium.com/@onlykiosk/the-complete-nuxt-guide-940751e1a6a5) by [OnlyKiosk Dev Tech](https://medium.com/@onlykiosk)
 
-## 9.3. DB
+## 11.3. DB
 * <b>Visualization</b>
     - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 
-## 9.4. Design
+## 11.4. Design
 * <b>Figma</b>
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
-## 9.5. Etc
+## 11.5. Etc
 * <b>Setup</b>
   - [Simple Movies web app with Vue, Vuetify and Django. Part 1: Setup](https://medium.com/@samy_raps/simple-movies-web-app-with-vue-vuetify-and-django-part-1-setup-6351c02327a5)
 * <b>Testing</b>
@@ -216,7 +218,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Etc</b>
     - [Post Image](https://postimages.org/) : Get permanent links for images
 
-## 9.6. Inspirations
+## 11.6. Inspirations
 * <b>Interactive Experience</b>
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
@@ -237,7 +239,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [José Manuel Pérez](https://jmperezperez.com/projects/)
 - - -
 
-# 10. Built With
+# 12. Built With
 * <b>Front End</b>
     - HTML
     - CSS
@@ -259,10 +261,10 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [MySQL](https://www.mysql.com/)
 - - -
 
-# 11. Blog Posts
+# 13. Blog Posts
 - - -
 
-# 12. Coming Up
+# 14. Coming Up
 I plan to learn the following:
 * <b>Overall</b>
     - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)       
@@ -283,11 +285,11 @@ I plan to learn the following:
     - [VIM](https://www.vim.org/) : a text editor (<i>Force you to use only the keyboard!</i>)
 - - -
 
-# 13. Contributing
+# 15. Contributing
 If you see any typos or formatting errors in the website, please do not hesitate to open a pull request and fix it! :)
 - - -
 
-# 14. License
+# 16. License
 This project is open source and available under the [MIT License](https://github.com/cmdlhz/portfolio_website_ver2/blob/master/LICENSE).
 - - -
 
