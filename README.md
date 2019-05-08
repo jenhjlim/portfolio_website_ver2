@@ -246,6 +246,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - HTML
     - CSS
         + [Sass](https://sass-lang.com/)
+        + [Animate CSS](https://daneden.github.io/animate.css/)
     - JavaScript
         + [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap) : Professional-grade javascript animation for the modern web
         + [ScrollMagic](http://scrollmagic.io/) : Javascript library for magical scroll interactions
