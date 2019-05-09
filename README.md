@@ -121,6 +121,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 # 11. References 
 ## 11.1. Front-end
 ### Overall
+* <b>Collections</b>
+    - [Collection of Computer Programming (*in Korean*)](https://github.com/WeareSoft/archive)
 * <b>Testing</b>
     - [HTML-CSS-JS](https://html-css-js.com/): An online tool collection of HTML, CSS, JS
     - GreenSock
@@ -181,6 +183,10 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56) : Comparisons in "*Learning Curve*", "*Code Style*", "*Single File Components*", "*Performance*", "*Flexibility*", "*Tooling*", "*Mobile*", "*Community*", "*Maturity*", "*Support*", and "*Hiring Talent*"
 * <b>Tips</b>
     - [How to use various themes of icons from Google's Material Design in Vuetify](https://github.com/vuetifyjs/vuetify/issues/4164)
+
+### Design
+* <b>Blog Posts</b>
+    - [Behance vs Dribbble: The Ultimate Comparison](https://graphicmama.com/blog/behance-vs-dribbble-ultimate-comparison/)
 
 ### Etc..
 * <b>Collections</b>
