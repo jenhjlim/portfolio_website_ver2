@@ -147,6 +147,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [CSS Animation Tutorial Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) by [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * <b>Blogs</b>
     - [Solved with CSS! Dropdown Menus](https://css-tricks.com/solved-with-css-dropdown-menus/)
+    - [The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 
 ### JS
 * <b>Style Guide</b>
@@ -235,6 +236,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Ji-hoon Suh](https://jihoonsuh.com/)
     - [Jeremiah Shaw](http://www.jermshaw.com/)
     - [Derek Mei](https://www.derekmei.com/)
+    - [nykim](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 
 * <b>Programming Work</b>
     - [Tania Rascia](https://www.taniarascia.com/)
