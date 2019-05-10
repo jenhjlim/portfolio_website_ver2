@@ -197,6 +197,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [How I landed a full stack developer job without a tech degree or work experience](http://bit.ly/2D06sl5) by [Charlie Jeppsson](https://github.com/charliejeppsson)
 * <b>Plugins</b>
     - [New Moon](https://taniarascia.github.io/new-moon/) : the optimized dark theme including syntax highlighting for web development 
+* <b>Git</b>
+    - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## 11.2. Back-end
 * <b>Python</b>
@@ -208,6 +210,10 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 ## 11.3. DB
 * <b>Visualization</b>
     - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
+
+## 11.4. Computer Science
+* <b>Fundamentals</b>
+    - [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
 
 ## 11.4. Design
 * <b>Figma</b>
