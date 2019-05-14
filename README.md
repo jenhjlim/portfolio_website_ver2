@@ -271,6 +271,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Vue](https://vuejs.org/)
         + [Vuetify](https://vuetifyjs.com/en/) : a material component framework for Vue apps
         + [VeeValidate](https://baianat.github.io/vee-validate/) : Template Based Validation Framework for Vue.js
+        + [Vue ChartJS](https://vue-chartjs.org/) : Easy and beautiful charts with Chart.js and Vue.js
 * <b>Back End</b>
     - [Python](https://www.python.org/)
         + [Django](https://www.djangoproject.com/)
