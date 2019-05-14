@@ -180,7 +180,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Collections</b>
     - [Awesome Vue](https://github.com/vuejs/awesome-vue) 
 * <b>Blog Posts</b>
-    - [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56) : Comparisons in "*Learning Curve*", "*Code Style*", "*Single File Components*", "*Performance*", "*Flexibility*", "*Tooling*", "*Mobile*", "*Community*", "*Maturity*", "*Support*", and "*Hiring Talent*"
+    - [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56) : Comparisons in "*Learning Curve*", "*Code Style*", "*Single File Components*", "*Performance*", "*Flexibility*", "*Tooling*", "*Mobile*", "*Community*", "*Maturity*", "*Support*", and "*Hiring Talent*" by Yogev Ahuvia on Jun 29, 2018
+    - [26 Time Saving Tips for Vue](https://michaelnthiessen.com/26-time-saving-tips/) by Michael Thiessen in January 2019
 * <b>Tips</b>
     - [How to use various themes of icons from Google's Material Design in Vuetify](https://github.com/vuetifyjs/vuetify/issues/4164)
 
@@ -271,7 +272,10 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Vue](https://vuejs.org/)
         + [Vuetify](https://vuetifyjs.com/en/) : a material component framework for Vue apps
         + [VeeValidate](https://baianat.github.io/vee-validate/) : Template Based Validation Framework for Vue.js
-        + [Vue ChartJS](https://vue-chartjs.org/) : Easy and beautiful charts with Chart.js and Vue.js
+        + [Vue ChartJS](https://vue-chartjs.org/) : Easy and beautiful charts with [Chart.js](https://www.chartjs.org/) and Vue.js
+        + [Vue-Particles](https://vue-particles.netlify.com/) : Vue.js component for particles backgrounds
+
+SSR compatible
 * <b>Back End</b>
     - [Python](https://www.python.org/)
         + [Django](https://www.djangoproject.com/)
