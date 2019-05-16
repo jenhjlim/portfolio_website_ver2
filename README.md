@@ -46,10 +46,10 @@ The second version of my portfolio website
 * Install Vue through Vue CLI 3
   - Ran `vue create client` in terminal.
   - Manually selected options
-    + Features : Babel, Progressive Web App (PWA) Support, Router, Vuex, CSS Pre-processor, Linter/Formatter, Unit Testing
+    + Features : Babel, Progressive Web App (PWA) Support, Router, Vuex, CSS Pre-processor, Unit Testing
     + Use history mode for Router : Yes
     + Pick a CSS pre-processor? : Sass/SCSS
-    + Pick a linter / formatter config : ESLint + Prettier
+    + Pick a linter / formatter config : ESLint with error prevention only
     + Pick additional lint features : Lint on Save
     + Pick a unit testing solution: Mocha + Chai
     + What do you prefer placing config? : In dedicated config files
@@ -187,6 +187,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [How to use various themes of icons from Google's Material Design in Vuetify](https://github.com/vuetifyjs/vuetify/issues/4164)
 
 ### Design
+* <b>Practice</b>
+    - [The Bézier curve](https://bezier.method.ac/) : A game for mastering the pen tool
 * <b>Blog Posts</b>
     - [Behance vs Dribbble: The Ultimate Comparison](https://graphicmama.com/blog/behance-vs-dribbble-ultimate-comparison/)
 
@@ -202,6 +204,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Git</b>
     - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
     - [git — Rebase vs Merge](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
+    - [How to revert a Git repository to a previous commit](https://stackoverflow.com/q/4114095/10021131)
+    - [How to delete the preset configuration?](https://forum.vuejs.org/t/how-delete-the-preset-configuration/34526/2)
 
 ## 11.2. Back-end
 * <b>Python</b>
