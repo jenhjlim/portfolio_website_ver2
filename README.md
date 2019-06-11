@@ -215,8 +215,8 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [The Complete Nuxt Guide](https://medium.com/@onlykiosk/the-complete-nuxt-guide-940751e1a6a5) by [OnlyKiosk Dev Tech](https://medium.com/@onlykiosk)
 
 ## 11.3. DB
-* <b>Visualization</b>
-    - [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
+* [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
+* [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) : Compares and contrasts three of the most widely implemented open-source RDBMSs
 
 ## 11.4. Computer Science
 * <b>Fundamentals</b>
@@ -282,7 +282,6 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
         + [chartjs-plugin-datalabels](https://chartjs-plugin-datalabels.netlify.com/) : Display labels on data for any type of charts
         + [Vue-Particles](https://vue-particles.netlify.com/) : Vue.js component for particles backgrounds
 
-SSR compatible
 * <b>Back End</b>
     - [Python](https://www.python.org/)
         + [Django](https://www.djangoproject.com/)
