@@ -16,7 +16,7 @@ The second version of my portfolio website
     - 10.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#102-back-end)
     - 10.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#103-db)
     - 10.4. [Computer Science](https://github.com/cmdlhz/portfolio_website_ver2#104-computer-science)
-    - 10.5. [UI/UX](https://github.com/cmdlhz/portfolio_website_ver2#105-ui-ux)
+    - 10.5. [UI/UX](https://github.com/cmdlhz/portfolio_website_ver2#105-uiux)
     - 10.6. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#106-etc)
     - 10.7. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#107-inspirations)
 11. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#11-built-with)</b>
