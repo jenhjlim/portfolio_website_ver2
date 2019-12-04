@@ -11,20 +11,19 @@ The second version of my portfolio website
 7. <b>[Main Page](https://github.com/cmdlhz/portfolio_website_ver2#7-account)</b>
 8. <b>[Navigation](https://github.com/cmdlhz/portfolio_website_ver2#8-navigation)</b>
 9. <b>[General](https://github.com/cmdlhz/portfolio_website_ver2#9-general)</b>
-10. <b>[Useful Info](https://github.com/cmdlhz/portfolio_website_ver2#10-useful-info)</b>
-    - 10.1. [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/portfolio_website_ver2#10-github-markdown--useful-techniques)
-11. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#11-references)</b>
-    - 11.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#111-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
-    - 11.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#112-back-end)
-    - 11.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#113-db)
-    - 11.4. [Design](https://github.com/cmdlhz/portfolio_website_ver2#114-design)
-    - 11.5. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#115-etc)
-    - 11.6. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#116-inspirations)
-12. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#12-built-with)</b>
-13. <b>[Blog Posts](https://github.com/cmdlhz/portfolio_website_ver2#13-blog-posts)</b>
-14. <b>[Coming Up](https://github.com/cmdlhz/portfolio_website_ver2#14-coming-up)</b>
-15. <b>[Contributing](https://github.com/cmdlhz/portfolio_website_ver2#15-contributing)</b>
-16. <b>[License](https://github.com/cmdlhz/portfolio_website_ver2#16-license)</b>
+10. <b>[References](https://github.com/cmdlhz/portfolio_website_ver2#10-references)</b>
+    - 10.1. [Front-end](https://github.com/cmdlhz/portfolio_website_ver2#101-front-end) : [Overall](https://github.com/cmdlhz/portfolio_website_ver2#overall) / [CSS](https://github.com/cmdlhz/portfolio_website_ver2#css) / [JS](https://github.com/cmdlhz/portfolio_website_ver2#js) / [Vue](https://github.com/cmdlhz/portfolio_website_ver2#vue) / [Etc](https://github.com/cmdlhz/portfolio_website_ver2#etc)
+    - 10.2. [Back-end](https://github.com/cmdlhz/portfolio_website_ver2#102-back-end)
+    - 10.3. [DB](https://github.com/cmdlhz/portfolio_website_ver2#103-db)
+    - 10.4. [Computer Science](https://github.com/cmdlhz/portfolio_website_ver2#104-computer-science)
+    - 10.5. [UI/UX](https://github.com/cmdlhz/portfolio_website_ver2#105-ui-ux)
+    - 10.6. [Etc](https://github.com/cmdlhz/portfolio_website_ver2#106-etc)
+    - 10.7. [Inspirations](https://github.com/cmdlhz/portfolio_website_ver2#107-inspirations)
+11. <b>[Built With](https://github.com/cmdlhz/portfolio_website_ver2#11-built-with)</b>
+12. <b>[Blog Posts](https://github.com/cmdlhz/portfolio_website_ver2#12-blog-posts)</b>
+13. <b>[Coming Up](https://github.com/cmdlhz/portfolio_website_ver2#13-coming-up)</b>
+14. <b>[Contributing](https://github.com/cmdlhz/portfolio_website_ver2#14-contributing)</b>
+15. <b>[License](https://github.com/cmdlhz/portfolio_website_ver2#15-license)</b>
 - - -
 
 # 1. Setup 
@@ -107,19 +106,10 @@ Django is using the MVC pattern. However, each component is called differently i
 ## 9.2. Environment
 Because I'm using Python/Django in the backend, I decided not to use [NuxtJS](https://nuxtjs.org/).
 - "The default build of vue-server-renderer assumes a *Node.js* environment, which makes it unusable in alternative JavaScript environments such as [PHP V8Js](https://github.com/phpv8/v8js) or [Oracle Nashorn](https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)." ([Vue SSR Guide](https://ssr.vuejs.org/guide/non-node.html))
-
 - - -
 
-# 10. Useful Info
-## 10.1. GitHub README Markdown : Useful Techniques 
-Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques).
-
-## 10.2. Computer Science Fundamentals
-- [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
-- - -
-
-# 11. References 
-## 11.1. Front-end
+# 10. References 
+## 10.1. Front-end
 ### Overall
 * <b>Collections</b>
     - [Collection of Computer Programming (*in Korean*)](https://github.com/WeareSoft/archive)
@@ -129,10 +119,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
         + [GreenSock Ease Visualizer](https://greensock.com/ease-visualizer): `Power 0-4`, `Back`, `Elastic`, `Bounce`, `Rough`, `SlowMo`, `Stepped`, `Circ`, `Expo`, `Sine`
     - [Regex 101](https://regex101.com/): a regular expression debugger 
 * <b>Tutorials</b>
-    - GreenSock
-        + [GreenSock for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
-    - ScrollMagic
-        + [ScrollMagic for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
+
 
 ### CSS
 * <b>Style Guide</b>
@@ -143,9 +130,14 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [Color Picker](https://www.w3schools.com/colors/colors_picker.asp): Comparing similar colors
 * <b>Collections</b>
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets
-* <b>Tutorials</b>
+* <b>Games</b>
     - [Flexbox Froggy](https://flexboxfroggy.com/): A game for learning CSS flexbox
     - [Grid Garden](http://cssgridgarden.com/): A game for learning CSS grid layout
+* <b>Tutorials</b>
+    - GreenSock
+        + [GreenSock for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
+    - ScrollMagic
+        + [ScrollMagic for Beginners](https://bit.ly/2IBc8la) on YouTube by [Petr Tichy](https://twitter.com/ihatetomatoes)
     - [CSS Animation Tutorial Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) by [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * <b>Blogs</b>
     - [Solved with CSS! Dropdown Menus](https://css-tricks.com/solved-with-css-dropdown-menus/)
@@ -207,26 +199,29 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [How to revert a Git repository to a previous commit](https://stackoverflow.com/q/4114095/10021131)
     - [How to delete the preset configuration?](https://forum.vuejs.org/t/how-delete-the-preset-configuration/34526/2)
 
-## 11.2. Back-end
+## 10.2. Back-end
 * <b>Python</b>
     - [How to loop with indexes in Python](https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/) by Trey Hunner on Apr 25, 2016.
 * <b>NuxtJS</b>
     - [Vue SSR Guide](https://ssr.vuejs.org) by [VueJS](https://vuejs.org)
     - [The Complete Nuxt Guide](https://medium.com/@onlykiosk/the-complete-nuxt-guide-940751e1a6a5) by [OnlyKiosk Dev Tech](https://medium.com/@onlykiosk)
 
-## 11.3. DB
+## 10.3. DB
 * [DrawSQL](https://drawsql.app/) : Create, visualize and collaborate on database entity relationship diagrams
 * [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) : Compares and contrasts three of the most widely implemented open-source RDBMSs
 
-## 11.4. Computer Science
+## 10.4. Computer Science
 * <b>Fundamentals</b>
     - [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
+    - [List of CS courses online](https://github.com/prakhar1989/awesome-courses)
 
-## 11.4. Design
+## 10.5. UI/UX
 * <b>Figma</b>
     - [4 Figma Tips For Prototyping Like A Pro](https://trydesignlab.com/blog/4-figma-tips-prototype-like-a-pro-ux-ui-design/)
 
-## 11.5. Etc
+## 10.6. Etc
+* <b>How to write a good README
+  - [GitHub README Markdown : Useful Techniques](https://github.com/cmdlhz/SaferTrip_JL#61-github-markdown--useful-techniques)
 * <b>Setup</b>
   - [Simple Movies web app with Vue, Vuetify and Django. Part 1: Setup](https://medium.com/@samy_raps/simple-movies-web-app-with-vue-vuetify-and-django-part-1-setup-6351c02327a5)
 * <b>Testing</b>
@@ -240,7 +235,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
 * <b>Etc</b>
     - [Post Image](https://postimages.org/) : Get permanent links for images
 
-## 11.6. Inspirations
+## 10.7. Inspirations
 * <b>Interactive Experience</b>
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
@@ -262,7 +257,7 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [José Manuel Pérez](https://jmperezperez.com/projects/)
 - - -
 
-# 12. Built With
+# 11. Built With
 * <b>Front End</b>
     - HTML
     - CSS
@@ -289,10 +284,10 @@ Please check out [this markdown](https://github.com/cmdlhz/SaferTrip_JL#61-githu
     - [MySQL](https://www.mysql.com/)
 - - -
 
-# 13. Blog Posts
+# 12. Blog Posts
 - - -
 
-# 14. Coming Up
+# 13. Coming Up
 I plan to learn the following:
 * <b>Overall</b>
     - * [Web Developer Roadmap](https://github.com/cmdlhz/developer-roadmap)       
@@ -313,11 +308,11 @@ I plan to learn the following:
     - [VIM](https://www.vim.org/) : a text editor (<i>Force you to use only the keyboard!</i>)
 - - -
 
-# 15. Contributing
+# 14. Contributing
 If you see any typos or formatting errors in the website, please do not hesitate to open a pull request and fix it! :)
 - - -
 
-# 16. License
+# 15. License
 This project is open source and available under the [MIT License](https://github.com/cmdlhz/portfolio_website_ver2/blob/master/LICENSE).
 - - -
 
