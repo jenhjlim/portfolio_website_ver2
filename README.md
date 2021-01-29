@@ -240,11 +240,18 @@ Because I'm using Python/Django in the backend, I decided not to use [NuxtJS](ht
     - [Website Awwwards](https://www.awwwards.com/) : scores based on design, usability, creativity, content, and mobile
     - [Form Follows Function](http://fff.cmiscm.com/#!/main)
     - Bunts Spenden @ [website](http://buntspenden.bleech.de/en/)
-        + [awwwards submission](https://www.awwwards.com/sites/buntspenden)
+        + [Honorable Mention](https://www.awwwards.com/sites/buntspenden)
     - 12 Dishes @ [website](http://12dishes.com/)
-        + [awwwards winner](https://www.awwwards.com/sites/around-the-world-in-12-dishes) of Jan 27, 2016.
+        + [Awwwards Site of the Day](https://www.awwwards.com/sites/around-the-world-in-12-dishes) of Jan 27, 2016.
         + [youtube explanation](https://youtu.be/Wu7OHhdqT0c)
-    - [Fly Acts - Multi-channel App](https://www.flyacts.com/multi-channel-app/)
+    - Oat the Goat @ [website](http://oatthegoat.co.nz/)
+        + [Awwwards Site of the Day](https://www.awwwards.com/sites/oat-the-goat#comments) of Jun 13, 2018.
+    - Bruno Simon Portfolio @ [website](https://bruno-simon.com/)
+        + [Awwwards Site of the Day](https://www.awwwards.com/sites/bruno-simon-portfolio) of Nov 11, 2019.
+    - Simply Chocolate Portfolio @ [website](https://simplychocolate.dk/)
+        + [Awwwards Site of the Day](https://www.awwwards.com/sites/simply-chocolate) of Oct 5, 2017.
+    - In Pieces @ [website](http://species-in-pieces.com/)
+        + [Awwwards Site of the Day](https://www.awwwards.com/sites/in-pieces) of Mar 10, 2015.
 
 * <b>Portfolio Website</b>
     - [Ji-hoon Suh](https://jihoonsuh.com/)
